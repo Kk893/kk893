@@ -1,4 +1,4 @@
-<img src="./assets/sai-github-banner.jpg" alt="Terukula Sai"></img> <hr>
+<img src="./assets/sai-profile.png" alt="Terukula Sai"></img> <hr>
 
 <h1 align="center"> 🚀 DevOps Engineer  |  💻 Linux Enthusiast  <br>
   📚 Open-Source Enthusiast</h1>
